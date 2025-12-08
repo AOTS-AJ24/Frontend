@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ACE Housing </title>
+    <style>
+        h4{
+            color: black;
+        }
+
+    </style>
+    <link href="stylePg1.css" rel="stylesheet">
+<!--    this is ho we link the css page inside the html page for style-->
+</head>
+<body>
+<!--Inline css-->
+<h1 style="color: crimson"> Welcome India  </h1>
+<h1 style="color: royalblue">To " ACE  ! "  </h1>
+<h1>Just to experiment Style Sheet</h1>
+<pre>
+<h2 style="color: deeppink">For 1.All Apartment Properties
+    2.All Rental & PG
+    3.All Domain Real-Estate's </h2>
+
+    <h4 class="A">Join this New Era of Real-Estate Notification & Updates with ACE Housing....</h4>
+</pre>
+<p id ="byIDStyle" style="text-align: left" >Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    Aut consectetur labore nesciunt vero voluptates. Autem cupiditate deleniti
+    ex itaque minima modi nulla quibusdam quo vero voluptas!
+    Accusantium eaque exercitationem repellendus!lorem ipsum dolor sit amet consectetur adipisicing elit.
+
+</p>
+<br>
+<hr>
+<h1>head1 </h1>
+<h2>head 2</h2>
+<h3>head 3</h3>
+<h4>head 4</h4>
+<hr>
+
+
+<br>
+<hr>
+<br>
+<p id="ff" >
+Programmers dont get lost—they just get stuck in infinite loops.
+    They dont make mistakes—they just create undocumented features.
+    Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life?
+    Lets just say GitHub gets more pull requests than they do by アビシェク.
+    Programmers dont get lost—they just get stuck in infinite loops. They dont make mistakes—they just create undocumented features. Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life? Lets just say GitHub gets more pull requests than they do by アビシェク.
+    <a href="https://www.google.com">click here to go .....</a>
+</p>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/abhishek-jagadale-3466942a7" target="_blank">
+<button class="A" > Buy Flat </button>
+</a>
+<br><br>
+<hr>
+<hr>
+<!--now checking units in css : ABsolute -> pixels ; 1 inch :96 px-->
+<p id="a1">Programmers dont get lost—they just get stuck in infinite loops. They dont make mistakes—they just create undocumented features. Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life? Lets just say GitHub gets more pull requests than they do by アビシェク.</p>
+<br>
+<p id="a2">Programmers dont get lost—they just get stuck in infinite loops. They dont make mistakes—they just create undocumented features. Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life? Lets just say GitHub gets more pull requests than they do by アビシェク.</p>
+<br>
+<p id="a3">Programmers dont get lost—they just get stuck in infinite loops. They dont make mistakes—they just create undocumented features. Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life? Lets just say GitHub gets more pull requests than they do by アビシェク.</p>
+
+<br><br><br><br><br><br>
+
+</body>
+</html>
+
+
+<!-- tab for emmet -->
