@@ -1,3 +1,18 @@
+/* 
+   Contents of Chapter 1
+
+  - Syntax 
+  - Including CSS 
+  - Color 
+  - Background color 
+  - Color system 
+  - Color palette
+  - Selectors 
+
+  - Text 
+  - Units in CSS
+*/
+
 /* Colour Properties  --------------------------------------------------------------------------*/
 *{
     margin: 0;
@@ -6,7 +21,7 @@
 
 h1{
     color:crimson;
-    background: #ffff00; /* hexadecimal * &&  color system rgb(255,255,0);/
+    background: #ffff00; /* hexadecimal * &&  color system rgb(255,255,0); */
 }
 
 p{
