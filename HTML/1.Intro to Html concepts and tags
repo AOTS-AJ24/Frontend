@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just title
+    </title>
+</head>
+<body style="background-color: yellow;">
+
+    <h1>Bhau !</h1>
+    <p>I am Learning with Prashant Sir and myself experimenting .</p>
+    <p>Becz i am ......</p>
+
+
+    <!-- 5th tag  image tag  -->
+ <img src="luffy.jpg" alt="luffy san" height="300px"  >
+
+ <img src=zoro.jpg alt="luffy san" alt="Zoro san" height="300px" >
+
+
+ <img src=sanji.jpg alt="sanji san" height="300px" >
+
+ <!-- it gives error in  live server mode even when the code is right -->
+
+<h4>Guess who am i ?</h4>
+
+    <!-- <div id="header">head hai boss</div> -->
+
+    <!-- 1st tag  heading tag :  h${Heading $}*6 , h$*6
+ -->
+    <h1>Hi i am heading number: 1</h1>
+    <h2>Hi i am heading number: 2</h2>
+
+    <!-- 2nd tag  paragraph tag  -->
+    <p>Programmers dont get lost—they just get stuck in infinite loops. They dont make mistakes—they just create undocumented features. Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life? Lets just say GitHub gets more pull requests than they do by アビシェク.</p>
+
+    <hr style="border: 3px solid black;">
+    <hr style="border: 5px solid brown;">
+
+    
+
+    <!-- 3rd tag  Break tag  -->
+
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque repudiandae ut praesentium assumenda odio harum, dolores quod pariatur. Minima amet quas iste molestias a fugiat magni sapiente necessitatibus <br> <br><br>ipsa!</P>
+
+        <!-- 6th tag  video tag  -->
+         <video src="Earth.mp4" height="720px"  controls loop></video>
+<h1>I am Earth Baby!</h1>
+
+
+<!-- 7th tag  Anchor tag  -->
+<a 
+href="https://www.linkedin.com/in/abhishek-sukhadev-jagadale-852902385" 
+target="_blank" 
+rel="noopener noreferrer" 
+style="font-size: 24px;">....to know the Architect</a>
+<!-- before www : add https://www.your link -->
+
+
+<!-- 4th tag  HR tag  -->
+<hr style="border: 5px solid brown;">
+
+<!-- 8th Bold / Italic / underline / strikethrough -->
+ <h1>
+
+     <p> Bold / Italic / underline / strikethrough</p><br>
+ <b>Abhishek</b><br>
+ <i>Abhishek</i><br>
+ <u>Abhishek</u><br>
+ <s>Abhishek</s><br>
+
+ <hr style="border: 5px solid brown;">
+ <hr style="border: 5px solid brown;">
+
+jai Bhavani......................... 
+    Jai  Shivaji !!!!
+
+ <hr style="border: 5px solid brown;">
+
+
+ <!-- 9th tag  pre tag  -->
+<pre>
+    jai Bhavani......................... 
+    Jai     Shivaji !!!!
+</pre></h1>
+
+ <!-- 10th tag  Big/small tag  -->
+
+ <!-- <big></big> -->
+ <small> I am small , while the Big tag is deprecated in html 5
+ </small>
+
+ <!-- 11th tag  Superscript / Subscript tag  -->
+  <p>
+    <big> Superscript : </big><br><hr>
+    log2 <br>
+    log<sup>2</sup> <br><br>
+
+        <big> Subscript : </big><br><hr>
+        log2 <br>
+        log<sub>2</sub><br><br>
+
+  </p>
+
+ <!-- level 2 project  -->
+  <a href="https://en.wikipedia.org/wiki/Roronoa_Zoro" target="_blank" rel="noopener noreferrer" 
+style="font-size: 24px;" >
+<img src="zoro.jpg" alt="Zoro San" height="300px"> </a>
+
+
+<b></b><u></u><i></i><s></s> 
+<!-- by using emmet b+u+i+s -->
+
+
+</body>
+</html>  
