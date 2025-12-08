@@ -1,0 +1,285 @@
+<!--
+   MAIN CONTENT – TABLE OF CONTENTS
+
+1. Home Section
+   - Home Sweet Home intro
+   - Signature (アビシェク)
+
+2. Technologies
+   2.1 Java
+   2.2 Python
+   2.3 Microsoft Power BI
+   2.4 Technologies I Know (List)
+       - Python
+       - Java (Basic + OOP, Spring)
+       - PowerBI
+       - HTML
+
+3. Misc Content
+   - "I know you & what you want..." list
+   - GSoC link
+
+4. Tables Section
+   - Basic table (Name / Age / Phone)
+   - Examples of colspan and multiple rows
+
+5. Aside Section
+   - Recommended channels
+
+
+-->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- ---------------------------------------------------------------- -->
+    <header>
+        <h1>
+            <u><div style="background-color: chartreuse;  display: flex; justify-content: center; align-items: center;">
+                <i>
+                    This is <span style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color:brown;">Haider</span>
+                
+                </i>
+                </div>
+            </u> 
+         </h1>
+    <hr>
+
+    <div >
+        <ul>
+         <h2>
+        <nav>
+            
+            <li><a href="#home">Ghar Jao</a></li><br>
+            <li><a href="https://www.google.com/search?q=&sca_esv=b1ea5600979d51fe&sxsrf=AE3TifP9h4Blczqzzw7jMXm2-GUaObhcVQ%3A1760591261612&source=hp&ei=nX3waOjHI63Z1sQPmYqe4QM&iflsig=AOw8s4IAAAAAaPCLratdHR1JcXaVyFvbMteYDXVpu9CM&aep=22&udm=50&ved=0ahUKEwioivfF-aeQAxWtrJUCHRmFJzwQteYPCBM&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA&sclient=gws-wiz" target="_blank" rel="noopener noreferrer">Go AI</a></li><br>
+            <li><a href="#contact">Sampark Karo</a></li><br>
+            <li><a href="#features">Speciality</a></li><br>
+            <li><a href="#services">Seva</a></li><br>
+            <li><a href="#aka">Also Known As :</a></li><br>
+            
+           
+           
+        </nav>
+        </h2>
+         </ul>
+
+    </div>
+
+        </header>
+        <br><hr><hr>
+
+
+        <!-- ------------------------------------------------------------ -->
+    <main>
+        <p id="home"><h2><i >Home Sweet Home</i></h2><br> 
+             Programmers dont get lost—they just get stuck in infinite loops. They dont make mistakes—they just create undocumented features. Their idea of a break is staring at Stack Overflow like its a crystal ball. And their social life? Lets just say GitHub gets more pull requests than they do by <h1>
+                <pre id="aka">by <b>:- </b><span style="font-size: large;color:crimson;border: 2px solid crimson;">アビシェク</span>
+                </pre>
+                 </h1></p>
+                 <hr><hr>
+
+        <section id="features"><h4>~ Technologies Java</h4>
+            <p><u>💻 Java</u> <br><br>
+
+Java is a powerful, object-oriented programming language used for building robust web, desktop, and mobile applications.
+It emphasizes reliability, scalability, and platform independence through the Java Virtual Machine (JVM).
+From enterprise systems to Android apps, Java remains one of the most widely adopted technologies worldwide.</p>
+        </section><hr>
+        <hr>
+
+        <section><h4>~ Technologies Python</h4>
+            <p>
+                <u>🐍 Python</u> <br><br>
+
+Python is a versatile, high-level language known for its simplicity and readability.
+It’s widely used in data science, artificial intelligence, web development, and automation.
+With vast libraries and community support, Python accelerates development across multiple domains.
+            </p>
+        </section><hr>
+        <hr>
+
+
+        <section><h4>~ Technologies Microsoft Power BI</h4>
+            <article>
+                <a href="https://www.google.com/search?q=microsoft+powerbi&oq=microsoft+powerbi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyCQgHEAAYChiABDIHCAgQABiABDIJCAkQABgKGIAE0gEIMzk4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" rel="noopener noreferrer" target="_blank" style="color: rgb(193, 32, 91);"><u>📊 Microsoft Power BI </u> </a>
+                <br><br>
+
+Power BI is a leading business analytics tool that transforms raw data into interactive insights.
+It allows users to create visually compelling dashboards and reports with real-time updates.
+Organizations use Power BI to make data-driven decisions efficiently and effectively
+            </article>
+            <br>
+            <hr>
+            <hr>
+        </section>
+
+<!-- making a list  -->
+        <section>
+            <h4>~ Technologies I Know</h4>
+            <p>
+                <u>🐍 </u> <br>
+            <ol type="A">
+                <li>Python</li>
+
+                <li>Java</li>
+                <ol type="i">
+                        <li>Basic + OOP</li>
+                        <li>Spring Framework</li>
+                </ol>
+                <ul>
+                    <li> !!! Doing Smart Work</li>
+                </ul>
+                
+
+                <li>PowerBI</li>
+                <li>HtML</li>
+            </ol>
+        </section>
+
+        <hr style="border: 2px solid black;">
+
+        <!-- h3>section>ol>li{level $}*2 -->
+
+                <h3>
+                    <section>
+                        <ol>
+                            <li>I know you & what you want to do ...............</li>
+                            <a href="https://developers.google.com/open-source/gsoc/resources/marketing" target="_blank" rel="noopener noreferrer"> <li> To Meeet</li> </a>
+                        </ol>
+                    </section>
+                </h3>
+
+
+        <hr style="border: 2px solid black;">
+
+        
+        <h3 style="display: flex; justify-content: center;">Makin a Table </h3>
+
+        <div style="display: flex; justify-content: center;">
+        <table border="2">
+            <caption style="font-size: larger; font-weight: bold;">Use caption for heading in table </caption>
+
+
+
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Phone. No</th>
+            </tr>
+
+            <tr>
+                <td>Abhi</td>
+                <td>21</td>
+                <td>913</td>
+                <!-- <td>456</td> extra -->
+            </tr>
+
+            <tr>
+                <td>Ravi</td>
+                <td>56</td>
+                <td>91213213</td>
+            </tr>
+
+            <tr>
+                <td>Shyamm</td>
+                <td>231</td>
+                <td>9154654643</td>
+            </tr>
+
+          
+            <tr>
+                <td> data 1</td>
+                <td> data 2</td>
+                <td> data 3</td>
+            </tr>
+
+            <!-- to get a break -->
+             <tr>
+                <td colspan="3" style="height: 30px;"></td>
+             </tr>
+
+             <!--  Learning colspan  -->
+            <tr>
+                <td colspan="2" style="height: 20px;"> i have 2 columns</td>
+                <td colspan="1" style="font-weight: bold;"> i have 1 </td>
+            </tr>
+
+            <!-- ------------------------------------------------------------------ -->
+
+            <tr>
+                <td colspan="3" style="height: 30px;"></td>
+             </tr>
+
+            <!--------------------------------------------------------------------  -->
+             <tr>
+                <th>name 1</th>
+                <th>name 2</th>
+                <th>name 3</th>
+             </tr>
+
+
+             <tr>
+                <td>new data 1 </td>
+                <td>new data 2 </td>
+                <td>new data 3 </td>
+             </tr>
+        </table>
+        </div>
+
+
+
+
+
+
+        <hr style="border: 2px solid black;"><br><br>
+        <aside>
+            <h3>Recommended channel</h3>
+            <ul>
+                <li>"Intro to Python"</li>
+                <li>"intro to Java : Special Samja kya "</li>
+            </ul>
+        </aside>
+        <!-- nota good thing to do but apan toh sifh rahe hai h1 andar hota hai bahar nahi -->
+
+        <hr>
+        <hr>
+
+    <!-- ---------------------------------------------------------------- -->
+
+        <footer id="services" style="height: 100vh;background-color:chartreuse;">
+        <h1>
+
+        <pre>
+        <h2>
+    ★ Just Some Casusal details:  ⮟  Now you are in correct place  ⮟
+    </h2>
+        </pre>
+        <hr style="border: 2px solid white;">
+        <hr style="border: 2px solid black;">
+        
+            <ul><li><p  id="contact">Contact :- 123456789 </p></li>
+                <hr style="border: 2px solid white;">
+        <li>I am : Architect of the system</li>
+<hr style="border: 2px solid white;">
+        <li>
+        <a href="https://www.linkedin.com/in/abhishek-sukhadev-jagadale-852902385" target="_blank" rel="noopener noreferrer"><b>Click to see me</b></a></li>
+
+        <hr style="border: 2px solid white;">
+
+        <li>ant to know more .....</li></ul>
+    
+    </h1>
+
+    </footer>
+    </main>
+</body>
+</html>
+
+
