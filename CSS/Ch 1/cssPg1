@@ -1,0 +1,87 @@
+/* Colour Properties  --------------------------------------------------------------------------*/
+*{
+    margin: 0;
+/*    Universal selector : for whole page */
+}
+
+h1{
+    color:crimson;
+    background: #ffff00; /* hexadecimal * &&  color system rgb(255,255,0);/
+}
+
+p{
+    color:crimson;
+    /*background: crimson;*/
+}
+
+body{
+    background:blanchedalmond;
+}
+
+button{
+    /*Element Selector */
+    color:crimson;
+    border-bottom-color: black;
+    border-width:medium;
+
+}
+
+#byIDStyle{
+    /*ID Selector*/
+    color:rgb(255,0,254);
+    font-family: "Rockwell Extra Bold";
+}
+
+.A{
+    /*Class selector*/
+    color: darkorange;
+    background: black;
+}
+
+/* Text align  --------------------------------------------------------------------------*/
+
+p{
+    text-align: right;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+
+}
+
+h1,h2{
+    text-decoration: crimson solid underline;
+    font-weight: bolder;
+    text-align: center;
+
+}
+h3,h4{
+    text-decoration: crimson wavy underline;
+    font-weight:100;
+    text-align: left;
+
+}
+
+#ff{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#a1{
+    text-align: left;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+#a2{
+    text-align: center;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+#a3{
+    text-align: right;
+    font-size: 10px;
+    line-height:10;
+}
