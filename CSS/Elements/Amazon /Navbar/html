@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Practice</title>
+    <link rel="stylesheet" href="set3.css">
+</head>
+<body>
+<div id="nav">
+    <a href="https://www.amazon.in/" id="a1" target="_blank"> amazon.in</a>
+    <a href="#" > Account</a>
+    <a href="#"> My Cart</a>
+    <a href="#" target="_blank"> Contact Us</a>
+    <input type="text" placeholder="Search amazon.in">
+    <button>Search</button>
+</div>
+
+</body>
+</html>
