@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lvl 3</title>
+    <link rel="stylesheet" href="cs3.css">
+</head>
+<body>
+<div id="face">
+    <div id="i1"></div>
+    <div id="nose"></div>
+    <div id="i2"></div>
+    <div id="mouth">
+        <div id="teeth"></div>
+    </div>
+</div>
+
+</body>
+</html>
+
+<!--   here what we are mainly figuring out is relative units as compared to absolute units in css 
+        As 50%  here we tak it in consideration to not whole page but the parent div above -->
+
+        <!-- that is nose ,11,12, mouth will be relative to the width-height of face & not relative to entire page width-Height -->
