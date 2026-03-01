@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+}
+
+/*---------------------------------------------------*/
+/*Learning '  % '*/
+#face{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+
+    border: 2px solid black;
+    border-radius: 20% 20% 50% 50%;
+
+    margin: 10% 10% 10% 10% ; /* space from border becz in unversal i have set it 0*/
+
+
+}
+
+#i1{
+     height: 30%;
+     width: 30%;
+     background-color: crimson;
+     border: 2px solid black;
+
+     margin: 7px  5px 95px 11px;
+
+    border-radius: 50%;
+
+
+    display: inline-block;
+ }
+
+#nose{
+    height: 30%;
+    width: 10%;
+    background-color: greenyellow;
+
+    border: 2px solid black;
+    border-radius: 50% 50% 25% 25%;
+
+    margin: 8px 15px 5px 15px;
+    display: inline-block;
+}
+
+#i2{
+    height: 30%;
+    width: 30%;
+    background-color: crimson;
+
+    border: 2px solid black;
+    border-radius: 50%;
+
+
+    margin: 7px  11px 95px 5px;
+    display: inline-block;
+}
+
+
+#mouth{
+    height: 20%;
+    width: 60%;
+    background-color: snow;
+
+    border: 2px solid black;
+    border-radius: 2% 2% 100% 100%;
+
+    margin: 15px 60px 10px 60px;
+    display: block;
+}
+
+#teeth{
+    background-color: black;
+    display: block;
+}
+/*---------------------------------------------------------------*/
+/*Learning ' em '*/
+
+#out{
+    height: 300px;
+    width: 300px;
+    background-color: deeppink;
+    border: 2px solid black;
+    font-size: 25px;
+
+}
+
+#in{
+    background-color: black;
+    border: 2px solid black;
+
+
+    font-size: 5em;  /* it means twice of  its parents font size that is out div*/
+
+    width:2em;  /* it means twice of  its  own font size || we can also write 0.5 em that is half of its size */
+
+    /*height:2rem;*/
+    /* rem is actual base root size of page if only normal text written in body with not tag and css its size is root size
+    and rem is 2rem is twice the root size*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
